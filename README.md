@@ -1,8 +1,38 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Massive Bioinformatics Case
 
-Currently, two official plugins are available:
+Bu proje Massive Bioinformatics şirketi için hazırlanmıştır. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Kurulum ve Başlatma
+
+Projeyi bilgisayarınıza alın
+```bash
+git clone https://github.com/alibarandemir/massivebioinformatics-case.git
+```
+
+Projeyi bilgisayarınıza aldıktan sonra bağımlılıkları yükleyip başlatın
+
+```bash 
+  npm install 
+  npm run dev
+```
+    
+## Kullanılan Teknolojiler
+
+**İstemci:** React,Material Design, TailwindCss
+
+
+  
+## Dağıtım
+
+Projeyi canlıda görmek için
+
+https://massivebioinformatics-case.vercel.app/
+
+  
+## Ekran Görüntüleri
+
+
+
+  
